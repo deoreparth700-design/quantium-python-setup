@@ -8,7 +8,7 @@ This project demonstrates practical software engineering skills including data p
 
 ## 📜 Certificate
 
-Successfully completed the **Quantium Software Engineering Job Simulation** on **August 2, 2026**. :contentReference[oaicite:1]{index=1}
+Successfully completed the **Quantium Software Engineering Job Simulation** on **August 2, 2026**.
 
 ---
 
